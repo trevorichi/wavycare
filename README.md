@@ -1,6 +1,6 @@
-### This will be the main application for squids up and coming buisness Wavy Care 
+## This will be the main application for squids up and coming buisness Wavy Care 
 
-## I am still not sure what backend I want to use, I am currently using the react front end, planning on useing a Node/Express for a purely JS project
+### I am still not sure what backend I want to use, I am currently using the react front end, planning on useing a Node/Express for a purely JS project
 
 - TODOS
 	- Still need to link up with squid, to come up with a logo and services that will be available, as well as products
